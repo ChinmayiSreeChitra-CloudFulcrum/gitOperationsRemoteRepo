@@ -1,1 +1,5 @@
-git operations 
+git operations
+
+working directory
+Staging
+local repo 
