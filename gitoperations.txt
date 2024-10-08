@@ -2,4 +2,7 @@ git operations
 
 working directory
 Staging
-local repo 
+local repo
+
+
+rebase branch changes 
